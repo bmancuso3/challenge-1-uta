@@ -24,10 +24,14 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+## References
+1. Referenced CSS image discussion on Stack Overflow for titling an HTML element introducing CSS with a background image.
+<a href="https://stackoverflow.com/questions/4216035/css-background-image-alt-attribute"> Stack Overflow</a>
 
-### <a href="https://github.com/bmancuso3/challenge-1-uta">GitHub Repository</a>
 
-### <a href="bmancuso3.github.io/challenge-1-uta">Live Site</a>
+## <a href="https://github.com/bmancuso3/challenge-1-uta">GitHub Repository</a>
 
-### Site Mock-Up
+## <a href="bmancuso3.github.io/challenge-1-uta">Live Site</a>
+
+## Site Mock-Up
 <img src="01-html-css-git-homework-demo.png" alt="final site design">
