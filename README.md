@@ -31,7 +31,7 @@ Link: <a href="https://stackoverflow.com/questions/4216035/css-background-image-
 
 ## <a href="https://github.com/bmancuso3/challenge-1-uta">GitHub Repository</a>
 
-## <a href="bmancuso3.github.io/challenge-1-uta">Live Site</a>
+## <a href="https://bmancuso3.github.io/challenge-1-uta">Live Site</a>
 
 ## Site Mock-Up
 <img src="01-html-css-git-homework-demo.png" alt="final site design">
