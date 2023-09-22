@@ -25,8 +25,8 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 ## References
-1. Referenced CSS image discussion on Stack Overflow for titling an HTML element introducing CSS with a background image.
-<a href="https://stackoverflow.com/questions/4216035/css-background-image-alt-attribute"> Stack Overflow</a>
+1. Referenced CSS image discussion on Stack Overflow for titling an image in HTML that is located in the CSS.
+Link: <a href="https://stackoverflow.com/questions/4216035/css-background-image-alt-attribute"> Stack Overflow</a>
 
 
 ## <a href="https://github.com/bmancuso3/challenge-1-uta">GitHub Repository</a>
